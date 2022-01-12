@@ -1,4 +1,4 @@
-Name: Custom WorkFlow
+name: Custom WorkFlow
 on: push
 jobs:
   main:
